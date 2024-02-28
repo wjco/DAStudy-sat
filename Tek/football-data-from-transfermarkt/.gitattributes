@@ -1,3 +1,0 @@
-Tek/football-data-from-transfermarkt/data/appearances.csv filter=lfs diff=lfs merge=lfs -text
-Tek/football-data-from-transfermarkt/data/game_lineups.csv filter=lfs diff=lfs merge=lfs -text
-Tek/football-data-from-transfermarkt/data/game_events.csv filter=lfs diff=lfs merge=lfs -text
