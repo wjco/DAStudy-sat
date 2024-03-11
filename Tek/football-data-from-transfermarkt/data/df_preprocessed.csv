@@ -1,4 +1,4 @@
-player_name,last_season,yellow_cards,red_cards,goals,assists,minutes_played,total_apps,competition_code,date_of_birth,sub_position,current_club_name,highest_market_value_in_eur,market_value_per_season,country_of_citizenship,foot,height_in_cm
+player_name,start_season,yellow_cards,red_cards,goals,assists,minutes_played,total_apps,competition_code,date_of_birth,position,current_club_name,highest_market_value,market_value_per_season,country,foot,height_in_cm
 Aaron Connolly,2019,0,0,3,2,1261,24,premier-league,2000-01-28,Centre-Forward,Brighton and Hove Albion Football Club,7000000.0,4000000.0,Ireland,right,174.0
 Aaron Connolly,2020,0,0,2,1,791,17,premier-league,2000-01-28,Centre-Forward,Brighton and Hove Albion Football Club,7000000.0,7000000.0,Ireland,right,174.0
 Aaron Connolly,2021,0,0,0,0,155,4,premier-league,2000-01-28,Centre-Forward,Brighton and Hove Albion Football Club,7000000.0,6000000.0,Ireland,right,174.0
