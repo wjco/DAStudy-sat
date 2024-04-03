@@ -72,4 +72,8 @@
         - https://shinminyong.tistory.com/32
         - https://wikidocs.net/219419
     - Optuna
+<<<<<<< HEAD
         - https://forecastegy.com/posts/xgboost-hyperparameter-tuning-with-optuna/
+=======
+        - https://forecastegy.com/posts/xgboost-hyperparameter-tuning-with-optuna/
+>>>>>>> bc3f8469182c4966af7698760d35927c36a31a1e
