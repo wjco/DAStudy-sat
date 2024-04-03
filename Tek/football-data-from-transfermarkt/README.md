@@ -1,5 +1,10 @@
 # 축구 선수 몸값 예측 모델링
 
+## 프로젝트 파일
+> - 전처리 : preprocessing-football-data-from-transfermarkt.ipynb
+> - EDA : eda-football-data-from-transfermarkt.ipynb
+> - 예측 모델링 : model-football-data-from-transfermarkt.ipynb
+
 ## 프로젝트 배경 및 목적
 - 스포츠에서 통계 및 예측 모델의 중요성 증가
 - 다양한 스포츠 통계 회사에서 정교한 예측 모형 제공 (ex. opta)
